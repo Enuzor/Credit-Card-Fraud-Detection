@@ -48,4 +48,4 @@ Plotly
 
 I dealt with imbalaced set with imblearn
 
-I used Isolated Forest for Unsupervsed Learning Classification
+I used Logistic Regression, Random Forest Classifier and Neural Network Classifier
