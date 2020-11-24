@@ -35,3 +35,17 @@ Carcillo, Fabrizio; Le Borgne, Yann-Aël; Caelen, Olivier; Bontempi, Gianluca. S
 Bertrand Lebichot, Yann-Aël Le Borgne, Liyun He, Frederic Oblé, Gianluca Bontempi Deep-Learning Domain Adaptation Techniques for Credit Cards Fraud Detection, INNSBDDL 2019: Recent Advances in Big Data and Deep Learning, pp 78-88, 2019 
 
 Fabrizio Carcillo, Yann-Aël Le Borgne, Olivier Caelen, Frederic Oblé, Gianluca Bontempi Combining Unsupervised and Supervised Learning in Credit Card Fraud Detection Information Sciences, 2019
+
+
+Here, in my Solution
+We have an imbalaced set where the predictor variable is under representated.
+I used 
+Numpy
+Pandas 
+Seaborn
+Matplotlib
+Plotly
+
+I dealt with imbalaced set with imblearn
+
+I used Isolated Forest for Unsupervsed Learning Classification
